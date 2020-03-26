@@ -17,6 +17,9 @@ int main()
      case '*':
         cout<<a*b;
         break;
+     case '-':
+         cout<<a-b;
+         break;
      default:
         cout<<"Undefinite operation!"<<endl;
         break;
