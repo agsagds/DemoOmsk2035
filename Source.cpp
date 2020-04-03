@@ -1,6 +1,8 @@
 #include<iostream>
 #include<string>
-#include<vector2>
+// #include<vector2>
+#include<vector>
+
 using namespace std;
 int main()
 {
